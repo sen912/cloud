@@ -1,67 +1,103 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",CCTV1
+#EXTINF:0 tvg-rec="0", CCTV1综合
 #EXTGRP:央视
 http://39.135.32.30:6610/PLTV/77777777/224/3221225674/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:0 tvg-rec="0",CCTV2
+#EXTINF:0 tvg-rec="0", CCTV2财经
 #EXTGRP:央视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:0 tvg-rec="0",CCTV3
+#EXTINF:0 tvg-rec="0", CCTV3综艺
 #EXTGRP:央视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:0 tvg-rec="0",CCTV4
+#EXTINF:0 tvg-rec="0", CCTV4中文国际
 #EXTGRP:央视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:0 tvg-rec="0",CCTV5
+#EXTINF:0 tvg-rec="0", CCTV5体育
 #EXTGRP:央视
 http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
-#EXTINF:0 tvg-rec="0",CCTV5+
+#EXTINF:0 tvg-rec="0", CCTV5+体育赛事
 #EXTGRP:央视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:0 tvg-rec="0",CCTV6
+#EXTINF:0 tvg-rec="0", CCTV6电影
 #EXTGRP:央视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:0 tvg-rec="0",CCTV7
+#EXTINF:0 tvg-rec="0", CCTV7国防军事
 #EXTGRP:央视
 http://183.207.249.9/PLTV/3/224/3221225546/1.m3u8
-#EXTINF:0 tvg-rec="0",CCTV8
+#EXTINF:0 tvg-rec="0", CCTV8电视剧
 #EXTGRP:央视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:0 tvg-rec="0",CCTV9
+#EXTINF:0 tvg-rec="0", CCTV9记录
 #EXTGRP:央视
 http://222.240.82.92:9901/tsfile/live/0009_1.m3u8
-#EXTINF:0 tvg-rec="0",CCTV10
+#EXTINF:0 tvg-rec="0", CCTV10科教
 #EXTGRP:央视
 http://222.240.82.92:9901/tsfile/live/0010_1.m3u8
-#EXTINF:0 tvg-rec="0",CCTV11
+#EXTINF:0 tvg-rec="0", CCTV11戏曲
 #EXTGRP:央视
-http://39.135.138.58:18890/PLTV/88888910/224/3221225626/index.m3u8codeyj
-#EXTINF:0 tvg-rec="0",CCTV12
+http://39.136.48.10:8089/PLTV/88888888/224/3221226407/index.m3u8
+#EXTINF:0 tvg-rec="0", CCTV12社会与法
 #EXTGRP:央视
 http://222.240.82.92:9901/tsfile/live/0012_1.m3u8
-#EXTINF:0 tvg-rec="0",CCTV13
+#EXTINF:0 tvg-rec="0", CCTV13新闻
 #EXTGRP:央视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:0 tvg-rec="0",CCTV14
+#EXTINF:0 tvg-rec="0", CCTV14少儿
 #EXTGRP:央视
 http://222.240.82.92:9901/tsfile/live/0014_1.m3u8
-#EXTINF:0 tvg-rec="0",CCTV15
+#EXTINF:0 tvg-rec="0", CCTV15音乐
 #EXTGRP:央视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:0 tvg-rec="0",CCTV16
+#EXTINF:0 tvg-rec="0", CCTV16奥林匹克
 #EXTGRP:央视
 http://125.210.152.19:9090/live/hzgq-cctv16gq-h264.m3u8
-#EXTINF:0 tvg-rec="0",CCTV17
+#EXTINF:0 tvg-rec="0", CCTV17农业农村
 #EXTGRP:央视
 http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:0 tvg-rec="0"CCTV4K
+#EXTINF:0 tvg-rec="0", CCTV4K
 #EXTGRP:4K&8K
 http://117.148.129.85:80/PLTV/88888888/224/3221233413/1.m3u8
-#EXTINF:0 tvg-rec="0",CCTV8K
+#EXTINF:0 tvg-rec="0", CCTV8K
 #EXTGRP:4K&8K
 http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
-#EXTINF:0 tvg-rec="0",北京IPTV4K
+#EXTINF:0 tvg-rec="0", 北京IPTV4K
 #EXTGRP:4K&8K
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:0 tvg-rec="0",苏州4K
+#EXTINF:0 tvg-rec="0", 苏州4K
 #EXTGRP:4K&8K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:0 tvg-rec="0", 北京IPTV淘电影
+#EXTGRP:电影
+http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:0 tvg-rec="0", 超级电影
+#EXTGRP:电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:0 tvg-rec="0", 黑莓电影
+#EXTGRP:电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:0 tvg-rec="0", 动作电影
+#EXTGRP:电影
+http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
+#EXTINF:0 tvg-rec="0", 惊悚悬疑
+#EXTGRP:电影
+http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
+#EXTINF:0 tvg-rec="0", 凤凰卫视资讯台
+#EXTGRP:港澳台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:0 tvg-rec="0", 凤凰卫视中文台
+#EXTGRP:港澳台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:0 tvg-rec="0", Bloomberg TV+ 4K
+#EXTGRP:English
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-rec="0", NHKWorld
+#EXTGRP:English
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/th/playlist.m3u8
+#EXTINF:0 tvg-rec="0", AL Jazeera FHD
+#EXTGRP:English
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0 tvg-rec="0", US DC Council Channel
+#EXTGRP:English
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:0 tvg-rec="0", FOX
+#EXTGRP:English
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
