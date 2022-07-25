@@ -110,6 +110,9 @@ rtmp://59.124.75.138/sat/tv111
 #EXTINF:0 tvg-rec="0", Bloomberg TV+ 4K
 #EXTGRP:English
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-rec="0", Bloomberg 
+#EXTGRP:English
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:0 tvg-rec="0", NHKWorld
 #EXTGRP:English
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/th/playlist.m3u8
@@ -143,3 +146,15 @@ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-rec="0", Dubai TV (1080p)
 #EXTGRP:English
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-rec="0", Nat Geo Wild
+#EXTGRP:English
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:0 tvg-rec="0", HBO
+#EXTGRP:English
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0 tvg-rec="0", Sky News
+#EXTGRP:English
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:0 tvg-rec="0", ABC News
+#EXTGRP:English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658732060/ei/vOndYpWLMJS18wSttKWABA/ip/20.10.177.238/id/w_Ma8oQLmSM.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhjoJEy1Z24FTQDFhuoQeq4rV8LM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLhg9kKY3-jW3DpPbeH4OLtSnIC1VJZ6Pm8BOSTQNFb4CIHlfVsaZ5eA2gODcNiAUmeOCxohEYlBLrzOTDjbMdg7j/file/index.m3u8
