@@ -1,58 +1,59 @@
 #EXTM3U
 #EXTINF:0 tvg-rec="0", CCTV1综合
 #EXTGRP:中央电视台
-http://39.135.32.30:6610/PLTV/77777777/224/3221225674/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.12.101.22:6610/PLTV/77777777/224/3221225674/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV2财经
 #EXTGRP:中央电视台
-http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV3综艺
 #EXTGRP:中央电视台
-http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV4中文国际
 #EXTGRP:中央电视台
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225753/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV5体育
 #EXTGRP:中央电视台
-http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225516/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV5+体育赛事
 #EXTGRP:中央电视台
-http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV6电影
 #EXTGRP:中央电视台
-http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV7国防军事
 #EXTGRP:中央电视台
-http://183.207.249.9/PLTV/3/224/3221225546/1.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225627/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV8电视剧
 #EXTGRP:中央电视台
-http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225630/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV9记录
 #EXTGRP:中央电视台
-http://222.240.82.92:9901/tsfile/live/0009_1.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225633/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV10科教
 #EXTGRP:中央电视台
-http://222.240.82.92:9901/tsfile/live/0010_1.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225624/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV11戏曲
 #EXTGRP:中央电视台
-http://39.136.48.10:8089/PLTV/88888888/224/3221226407/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225750/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV12社会与法
 #EXTGRP:中央电视台
-http://222.240.82.92:9901/tsfile/live/0012_1.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV13新闻
 #EXTGRP:中央电视台
-http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV14少儿
 #EXTGRP:中央电视台
-http://222.240.82.92:9901/tsfile/live/0014_1.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV15音乐
 #EXTGRP:中央电视台
-http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV16奥林匹克
 #EXTGRP:中央电视台
-http://125.210.152.19:9090/live/hzgq-cctv16gq-h264.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:0 tvg-rec="0", CCTV17农业农村
 #EXTGRP:中央电视台
-http://223.151.51.27:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.12.101.22:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+
 #EXTINF:0 tvg-rec="0", CCTV4K
 #EXTGRP:4K高清
 http://117.148.129.85:80/PLTV/88888888/224/3221233413/1.m3u8
@@ -65,6 +66,7 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 #EXTINF:0 tvg-rec="0", 苏州4K
 #EXTGRP:4K高清
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 #EXTINF:0 tvg-rec="0", 北京IPTV淘电影
 #EXTGRP:电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
@@ -80,6 +82,7 @@ http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
 #EXTINF:0 tvg-rec="0", 惊悚悬疑
 #EXTGRP:电影
 http://39.134.65.166/PLTV/88888888/224/3221225553/1.m3u8
+
 #EXTINF:0 tvg-rec="0", 凤凰卫视资讯台
 #EXTGRP:港澳台
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
@@ -107,6 +110,7 @@ rtmp://59.124.75.138/sat/tv091
 #EXTINF:0 tvg-rec="0", 華視
 #EXTGRP:港澳台
 rtmp://59.124.75.138/sat/tv111
+
 #EXTINF:0 tvg-rec="0", Bloomberg TV+ 4K
 #EXTGRP:English
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -158,3 +162,94 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:0 tvg-rec="0", ABC News
 #EXTGRP:English
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658732060/ei/vOndYpWLMJS18wSttKWABA/ip/20.10.177.238/id/w_Ma8oQLmSM.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhjoJEy1Z24FTQDFhuoQeq4rV8LM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLhg9kKY3-jW3DpPbeH4OLtSnIC1VJZ6Pm8BOSTQNFb4CIHlfVsaZ5eA2gODcNiAUmeOCxohEYlBLrzOTDjbMdg7j/file/index.m3u8
+
+#EXTINF:0 tvg-rec="0", ABC KIDS
+#EXTGRP:英语儿童频道
+https://c.mjh.nz/101002210222/
+#EXTINF:0 tvg-rec="0", Baby TV
+#EXTGRP:英语儿童频道
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-rec="0", Baby First
+#EXTGRP:英语儿童频道
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-rec="0", PBS Kids Eastern/Central
+#EXTGRP:英语儿童频道
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:0 tvg-rec="0", PBS Kids HD
+#EXTGRP:英语儿童频道
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m3u8
+#EXTINF:0 tvg-rec="0", Moonbug Kids
+#EXTGRP:英语儿童频道
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-rec="0", Animax HD
+#EXTGRP:英语儿童频道
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-rec="0", BBC Cbeebies
+#EXTGRP:英语儿童频道
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-rec="0", DreamWorks HD
+#EXTGRP:英语儿童频道
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-rec="0" Toon Goggles
+#EXTGRP:英语儿童频道
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:0 tvg-rec="0", Forever Kids
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Little Stars Universe
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Nick Pluto TV
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Nick Jr. Pluto TV
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", TOTALLY TURTLES
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Kids Movie Club
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", No Parents Allowed
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", pocket.watch
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Dora TV
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Little Baby Bum
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb301b7395671000780d100/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Ryan and Friends
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb584b7613a31000789de5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Team Spirit
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Find Out Why
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Garfield and Friends
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Grande-ish
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fafef7c2440500071266e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Baby Shark TV
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", BBC Kids
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", LEGO Kids TV
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb01a24795a6000762fe83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Rainbow Squad
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-rec="0", Kartoon Channel!
+#EXTGRP:英语儿童频道
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
