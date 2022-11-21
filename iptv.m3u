@@ -34,9 +34,13 @@ http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
 http://hls.ye23.vip/hls/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png" group-title="中央电视台",CCTV17农业农村
 http://hls.ye23.vip/hls/cctv17hd.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="中央电视台",卡塔尔世界杯
-http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8
 
+#EXTINF:-1,tvg-id="" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="卡塔尔世界杯",卡塔尔世界杯1
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="卡塔尔世界杯",卡塔尔世界杯2
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="卡塔尔世界杯",卡塔尔世界杯3
+http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="卡塔尔世界杯",卡塔尔VS厄瓜多尔
 http://gslbmgspvod.miguvideo.com/depository_yqv/asset/zhengshi/1015/297/547/1015297547/media/1015297547_5037216854_56.mp4.m3u8?msisdn=202211211525231aa516d139da4cc3ac1b64454a89eca7&mdspid=&spid=800033&netType=0&sid=1708554654&pid=2028597139&timestamp=20221121152523&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=751060006&ParentNodeID=-99&assertID=1708554654&client_ip=171.113.244.78&SecurityKey=20221121152523&mvid=1015297547&mcid=1003&mpid=120000267873&playurlVersion=WX-A1-5.11.5-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&puData=6382ad717f0ec87bd3d34024afa9bbee&ddCalcu=e6e3eb82b219a0adf7a1472f004e3cd837db
 #EXTINF:-1,tvg-id="" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="卡塔尔世界杯", 英格兰 vs 伊朗
